@@ -1,0 +1,9 @@
+Variables: Las variables son objetos a los cuales les podemos asignar el valor que queramos, es decir, si queremos que la palabra "Hola" contenga el valor "15" se lo podemos asignar y asi con lo que queramos. Es una forma de relacionar dos conceptos entre sí.
+
+Strings: Los strings son un conjunto de caractéres que siempre se escriben entre comillas. Pueden ser números, letras o cualquier tipo de caracter. Un string puede ser "Hola" o "25" siempre y cuando esté entre comillas.
+
+Funciones: Son una forma de escribir menos código. Se les escribe dentro un proceso, y cada vez que las invoquemos se repetirá este proceso. Dentro del proceso se pueden poner valores incógnitos, por ejemplo "edad", tambien se debe aclarar este valor en el argumento de la función (los paentesis) y al invocar la función le podemos dar el argumento que queramos para cambiar estas incógnitas.
+
+Declaraciones: Establecen una condición, es decir, si pasa tal cosa, se ejecutará este código y sino se ejecutará este otro. Sirve para controlar por donde fluye el código y tener control completo sobre lo que queremos que pase en determinadas  situaciones.
+
+Valores Booleanos: Los valores Booleanos solo pueden ser dos, verdadero (true) o falso (false), Suelen utilizarse para ver si una condición se está cumpliendo. Si algo no se cumple o no es cierto, suele ser False y si se cumple o si es cierto suele ser True. Son faciles de utilizar y asociar ya que son el típico positivo y negativo que utilizamos normalmente en nuestras vidas.
