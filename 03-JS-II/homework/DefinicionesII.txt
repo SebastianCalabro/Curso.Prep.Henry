@@ -1,0 +1,4 @@
+For: for es una forma de establecer un bucle, es decir una acción que nosotros indiquemos la podemos repetir el numero de veces que queramos.
+&&: Significa "y", es decir, es para cuando queramos complir obligatoriamente una o mas condiciones para que se ejecute algo.
+||: Significa "o", es decir, sirve para cuando queramos que solo con cumplir una de dos o más condiciones se ejecute algo.
+!: Significa "no", es decir, se usa cuando queramos que lo que suceda sea lo contrario a lo que indicamos, si se usa varias veces siempre contradice al anterior. Por ejemplo !si sería no pero !!si sería si de nuevo.
