@@ -1,0 +1,1 @@
+Arrays: Es una forma de agrupar datos. Puede contener cualquier tipo de dato de los anteriormente abarcados (strings, numbers, booleans, incluso otros arrays). Estos datos tienen un orden y mediante ese orden se accede a ellos.
