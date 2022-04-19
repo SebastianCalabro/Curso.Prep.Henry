@@ -1,0 +1,5 @@
+Objetos: Los objetos son similares a los arrays, pero sus valores no tienen un índice numérico. Cada elemento puede tener el nombre que queramos, y para invocarlo debemos señalar el objeto, seguido del elemento que queremos invocar.
+Propiedades: Las propiedades son los elementos que habitan dentro de un objeto. Las propiedades pueden contener cualquier tipo de dato como valor. Incluso funciones u otros objetos.
+Métodos: Se le llama métodos a las funciones que están dentro de una propiedad, que a su vez, está dentro de un objeto.
+Bucle for... in: Al no tener un índice numérico, los objetos no se pueden recorrer con un bucle convencional como un array, asi que usaremos el "bucle for... in" para recorrerlo.
+Notación de puntos vs cortchetes: Existen 2 formas de invocar lo que se encuentra dentro de una propiedad, la primera es igual que una array, indicando el nombre del oobjeto y luego entre corchetes el nombre de la propiedad (si es un string, entre comillas). Pero tambien se la puede invocar indicando el nombre del objeto, seguido de un punto y luego el nombre de la propiedad (No hay que usar comillas aunque sea un string).
